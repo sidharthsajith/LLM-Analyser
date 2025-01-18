@@ -47,7 +47,7 @@ cd llm-visualization-tool
 2. Install the required packages:
 
 ```shell
-pip install -r requirements.txt
+pip install streamlit transformers huggingface_hub scikit-learn torch plotly pandas numpy
 ```
 
 3. Run the Streamlit app:
