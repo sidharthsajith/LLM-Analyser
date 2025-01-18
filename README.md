@@ -39,22 +39,22 @@ This project is a dynamic visualization tool for analyzing and understanding the
 
 1. Clone the repository:
 
-        ```shell
-        git clone https://github.com/your-username/llm-visualization-tool.git
-        cd llm-visualization-tool
-        ```
+```shell
+git clone https://github.com/your-username/llm-visualization-tool.git
+cd llm-visualization-tool
+```
 
 2. Install the required packages:
 
-        ```shell
-        pip install -r requirements.txt
-        ```
+```shell
+pip install -r requirements.txt
+```
 
 3. Run the Streamlit app:
 
-        ```shell
-        streamlit run app.py
-        ```
+```shell
+streamlit run app.py
+```
 
 ## Usage
 
