@@ -40,8 +40,8 @@ This project is a dynamic visualization tool for analyzing and understanding the
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/llm-visualization-tool.git
-cd llm-visualization-tool
+git clone https://github.com/sidharthsajith/LLM-Analyser.git
+cd LLM-Analyser
 ```
 
 2. Install the required packages:
@@ -130,11 +130,3 @@ The `evaluate_model` function evaluates model performance metrics such as perple
 def evaluate_model(analyzer, text):
         # Model evaluation code
 ```
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
